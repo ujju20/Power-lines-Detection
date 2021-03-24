@@ -14,4 +14,5 @@ The Train Accuracy is 0.9447.
 The Test Accuracy is 0.96615.
 
 Here is a Screenshot of Test Accuracy.
+
 ![Test Accuracy](https://github.com/ujju20/Power-lines-Detection/blob/main/Test%20Accuracy.png)
