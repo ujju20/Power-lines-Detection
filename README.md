@@ -5,12 +5,13 @@ Image-based power line detection is highly important for threat avoidance when t
 
 Given two set of images one containing powerlines and the other not containing the power lines. The task is to detect and classify the images as containing powerlines or not.
 
+# Dataset
 The Link to the Dataset- https://www.kaggle.com/c/recognizance-2/data
 
-The Train Accuracy is 0.9447
+# Accuray
+The Train Accuracy is 0.9447.
 
-The Test Accuracy is 0.96615
+The Test Accuracy is 0.96615.
 
-Here is a Screenshot of Test Accuracy
-
+Here is a Screenshot of Test Accuracy.
 ![Test Accuracy](https://github.com/ujju20/Power-lines-Detection/blob/main/Test Accuracy.png)
