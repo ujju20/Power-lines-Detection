@@ -9,7 +9,7 @@ Given two set of images one containing powerlines and the other not containing t
 The Link to the Dataset- https://www.kaggle.com/c/recognizance-2/data
 
 # Accuray
-The Train Accuracy is 0.9447.
+The Train Accuracy is 0.9455.
 
 The Test Accuracy is 0.96615.
 
